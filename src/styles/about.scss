@@ -2,7 +2,7 @@
   text-align: center;
   width: 80vw;
   margin-top: 10vh;
-  display: center;
+  display: flex;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {
     flex-direction: center;
