@@ -117,7 +117,7 @@ export default {
   aboutParaTwo:
     "I started to study a lot of design content and in 2018, when I was 15 years old, I received a scolarship to study at the Colégio IAPE and be part of they internal marketing team as graphic designer and videomaker.",
   aboutParaThree:
-    "I always liked to play videogames, and the Counter-Strike was my first contact with the world of the esports and started to make some concepts based on esports teams, so, at the end of 2019 I received a message to be part of the "OnFire Produtora", an college esports producer. After this I joined the Botafogo Esports as art director and community manager.",
+    "I always liked to play videogames, and the Counter-Strike was my first contact with the world of the esports and started to make some concepts based on esports teams, so, at the end of 2019 I received a message to be part of the OnFire Produtora, an college esports producer. After this I joined the Botafogo Esports as art director and community manager.",
   aboutImage:
     "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 
