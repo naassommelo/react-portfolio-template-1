@@ -7,10 +7,10 @@
     flex-direction: center;
   }
   @include media(">=lgphone", "<tablet") {
-    flex-direction: center;
+    flex-direction: column;
   }
   @include media(">=tablet", "<desktop") {
-    flex-direction: center;
+    flex-direction: column;
     align-items: center;
   }
   .content {
