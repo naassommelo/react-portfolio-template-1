@@ -3,7 +3,7 @@
   width: 80vw;
   margin-top: 10vh;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   @include media(">=phone", "<lgphone") {
     flex-direction: center;
   }
