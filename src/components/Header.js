@@ -38,7 +38,7 @@ const Header = () => {
               }`}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              CONTACT
             </a>
           </Fade>
         </div>
