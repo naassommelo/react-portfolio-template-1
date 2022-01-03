@@ -115,7 +115,7 @@ export default {
   aboutParaOne:
     "When I was 9 years old, I opened for the first time the Photoshop. Since then, what was a hobby has become a real deal at my life.",
   aboutParaTwo:
-    "b",
+    "I started to study a lot of design content and in 2018 I received a scolarship to study at the Colégio IAPE and be part of they internal marketing team.",
   aboutParaThree:
     "c",
   aboutImage:
