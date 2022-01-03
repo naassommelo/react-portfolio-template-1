@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm Nassom Melo, an brazilian graphic desigener currently working for Botafogo Esports",
+    "I'm Nassom Melo, an brazilian graphic designer currently working for Botafogo Esports",
 
   //Contact Email
   contactEmail: "hey@bynaassom.com",
