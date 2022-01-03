@@ -120,45 +120,6 @@ export default {
     "I always liked to play videogames, and the Counter-Strike was my first contact with the world of the esports and started to make some concepts based on esports teams, so, at the end of 2019 I received a message to be part of the OnFire Produtora, an college esports producer. After this I joined the Botafogo Esports as art director and community manager.",
   //   End About Section ---------------------
 
-  // Skills Section ---------------
-
-  //   Import Icons from the top and link it here
-
-  skills: [
-    {
-      img: htmlIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: cssIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: jsIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-  ],
-
-  // End Skills Section --------------------------
-
   //   Promotion Section --------------------------
 
   promotionHeading: "Heading",

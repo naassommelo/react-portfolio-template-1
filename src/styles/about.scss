@@ -27,13 +27,14 @@
     }
 
     h1 {
-      font-size: 3rem;
+      font-size: 2rem;
       line-height: 20px;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
     }
     p {
+      font-size: 14px;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
