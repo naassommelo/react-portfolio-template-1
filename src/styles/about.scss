@@ -4,13 +4,13 @@
   display: center;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {
-    flex-direction: column-reverse;
+    flex-direction: center;
   }
   @include media(">=lgphone", "<tablet") {
-    flex-direction: column-reverse;
+    flex-direction: center;
   }
   @include media(">=tablet", "<desktop") {
-    flex-direction: column-reverse;
+    flex-direction: center;
     align-items: center;
   }
   .content {
